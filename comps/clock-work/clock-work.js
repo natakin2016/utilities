@@ -6,6 +6,6 @@
         controller:ClockController,
 }) 
     function ClockController(){
-
+        var cc=this
     }
 }());
